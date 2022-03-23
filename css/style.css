@@ -43,7 +43,7 @@ nav {
 footer {
     text-align: center;
     background-color: #E3CAA5 ;
-    padding: 5px;
+    padding: 5px 0 0;
     margin-top: 20px;
 }
 h2 {
@@ -89,8 +89,13 @@ h2 {
 /*id selector*/
 #contact {
     border: 5px solid black;
-    margin: 10px 700px;
+    margin: 10px 35%;
     border-radius: 30px;
     border-color: #04009A;
     padding: 10px
+}
+#copy {
+    background-color: #6FB2D2;
+    padding: 20px;
+    
 }
